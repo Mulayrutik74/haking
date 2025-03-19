@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Anonymous+Pro:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body{
+    padding: 5px;
+  margin: 14px;
+    background-color: green;
+    color: rgb(15, 15, 15);
+    font-size: 20px;
+    font-family: "Anonymous Pro";
+    font-weight: 700;
+}
+@media screen and (max-width: 430px) {
+    body {
+      padding: 5px;
+      margin: 8px;
+      font-size: 10px;
+    }
+  
+}
